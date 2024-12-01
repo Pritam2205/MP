@@ -1,0 +1,99 @@
+/* Basic Styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8d7da;
+    color: #333;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    text-align: center;
+}
+
+.container {
+    background-color: #ffffff;
+    padding: 50px;
+    border-radius: 15px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    font-size: 3em;
+    color: #e83e8c;
+    margin-bottom: 20px;
+}
+
+p {
+    font-size: 1.5em;
+    color: #6c757d;
+}
+
+button {
+    background-color: #e83e8c;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1.2em;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+button:hover {
+    background-color: #d63384;
+}
+/* Basic Styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fce4ec;
+    color: #333;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    text-align: center;
+}
+
+.container {
+    background-color: #ffffff;
+    padding: 50px;
+    border-radius: 15px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    width: 80%;
+    max-width: 600px;
+}
+
+h1 {
+    font-size: 3em;
+    color: #e83e8c;
+    margin-bottom: 20px;
+}
+
+p {
+    font-size: 1.5em;
+    color: #6c757d;
+}
+
+.shyari p {
+    font-size: 1.3em;
+    color: #d63384;
+    font-style: italic;
+    margin-top: 20px;
+}
+
+button {
+    background-color: #e83e8c;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1.2em;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-top: 30px;
+}
+
+button:hover {
+    background-color: #d63384;
+}
